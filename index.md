@@ -8,3 +8,7 @@ def isPrime(i):
       return False;
   return True;
 ```
+- [x] Added code
+- [x] Added image
+- [x] Added headers
+- [ ] What's next?
